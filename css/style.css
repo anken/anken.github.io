@@ -1,0 +1,20 @@
+.container {
+  display: table;
+}
+.column {
+  display: table-cell;
+  padding: 20px;
+  width: 33%;
+}
+html {
+    /* font-size: 250%; */
+    /* @see http://www.kendraschaefer.com/2012/06/chinese-standard-web-fonts-the-ultimate-guide-to-css-font-family-declarations-for-web-design-in-simplified-chinese/ */
+    /* TODO: add mac font */
+    font-family: Calibri, Arial, "KaiTi", "楷体", FangSong, 仿宋, sans-serif;
+}
+.column.column-right {
+    /* font-size: 76%; */
+}
+.column.column-center {
+    /* font-size: 83%; */
+}
