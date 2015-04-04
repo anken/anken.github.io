@@ -1,1 +1,4 @@
-Suivi les instruction sur http://makethisinanhour.com/ pour faire un cname de www.minimandarin.com sur anken.github.io
+DONE - Suivi les instruction sur http://makethisinanhour.com/ pour faire un cname de www.minimandarin.com sur anken.github.io
+- automate the retrieval of pinyin and translation from any CN text 
+- use phantomJs (http://phantomjs.org/screen-capture.html) to download an A4 format png with the CN text, pinyin and translation
+- write a blog post about my technical journey and findings
