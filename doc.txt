@@ -1,0 +1,1 @@
+Suivi les instruction sur http://makethisinanhour.com/ pour faire un cname de www.minimandarin.com sur anken.github.io
